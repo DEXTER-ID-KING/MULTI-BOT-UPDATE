@@ -191,6 +191,14 @@
             "sri_lanka_time": "2025-06-19 10:36",
             "timestamp": 1750309589340,
             "type": "generic"
+        },
+        {
+            "package": "android",
+            "app": "Android System",
+            "message": "Sinhala (Sri Lanka) - Flash Board",
+            "sri_lanka_time": "2025-06-19 10:36",
+            "timestamp": 1750309591427,
+            "type": "generic"
         }
     ]
 }
