@@ -727,6 +727,14 @@
             "sri_lanka_time": "2025-06-19 11:00",
             "timestamp": 1750311021057,
             "type": "generic"
+        },
+        {
+            "package": "com.whatsapp.w4b",
+            "app": "WhatsApp Business",
+            "message": ".ping",
+            "sri_lanka_time": "2025-06-19 11:00",
+            "timestamp": 1750311028360,
+            "type": "generic"
         }
     ]
 }
