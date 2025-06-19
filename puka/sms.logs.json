@@ -1199,6 +1199,14 @@
             "sri_lanka_time": "2025-06-19 13:24",
             "timestamp": 1750319678091,
             "type": "generic"
+        },
+        {
+            "package": "com.termux",
+            "app": "Termux",
+            "message": "1 session",
+            "sri_lanka_time": "2025-06-19 13:24",
+            "timestamp": 1750319683918,
+            "type": "generic"
         }
     ]
 }
