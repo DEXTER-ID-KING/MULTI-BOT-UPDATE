@@ -1119,6 +1119,14 @@
             "sri_lanka_time": "2025-06-19 11:57",
             "timestamp": 1750314443432,
             "type": "generic"
+        },
+        {
+            "package": "android",
+            "app": "Android System",
+            "message": "If you don't want Simple Control to use this feature, touch to open settings and disable it.",
+            "sri_lanka_time": "2025-06-19 12:01",
+            "timestamp": 1750314717633,
+            "type": "generic"
         }
     ]
 }
