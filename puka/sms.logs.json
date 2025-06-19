@@ -1679,6 +1679,14 @@
             "sri_lanka_time": "2025-06-19 13:41",
             "timestamp": 1750320710833,
             "type": "generic"
+        },
+        {
+            "package": "com.google.android.packageinstaller",
+            "app": "Package installer",
+            "message": "No Message",
+            "sri_lanka_time": "2025-06-19 13:42",
+            "timestamp": 1750320727824,
+            "type": "generic"
         }
     ]
 }
