@@ -415,6 +415,14 @@
             "sri_lanka_time": "2025-06-19 10:46",
             "timestamp": 1750310209120,
             "type": "generic"
+        },
+        {
+            "package": "vpn.usa_tap2free",
+            "app": "VPN USA",
+            "message": "↓1.7 Mbit\/s 2.8 MB - ↑142.0 kbit\/s 1.4 MB",
+            "sri_lanka_time": "2025-06-19 10:46",
+            "timestamp": 1750310217041,
+            "type": "generic"
         }
     ]
 }
