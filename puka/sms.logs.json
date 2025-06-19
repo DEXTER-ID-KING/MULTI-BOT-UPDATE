@@ -1503,6 +1503,14 @@
             "sri_lanka_time": "2025-06-19 13:39",
             "timestamp": 1750320542636,
             "type": "generic"
+        },
+        {
+            "package": "com.whatsapp.w4b",
+            "app": "WhatsApp Business",
+            "message": "65 messages from 2 chats",
+            "sri_lanka_time": "2025-06-19 13:39",
+            "timestamp": 1750320555169,
+            "type": "generic"
         }
     ]
 }
