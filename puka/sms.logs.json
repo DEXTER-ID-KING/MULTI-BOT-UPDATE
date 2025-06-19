@@ -655,6 +655,14 @@
             "sri_lanka_time": "2025-06-19 10:54",
             "timestamp": 1750310647075,
             "type": "generic"
+        },
+        {
+            "package": "com.google.android.youtube",
+            "app": "YouTube",
+            "message": "",
+            "sri_lanka_time": "2025-06-19 10:54",
+            "timestamp": 1750310651144,
+            "type": "generic"
         }
     ]
 }
