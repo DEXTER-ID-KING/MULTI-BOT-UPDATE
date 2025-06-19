@@ -1599,6 +1599,14 @@
             "sri_lanka_time": "2025-06-19 13:40",
             "timestamp": 1750320643883,
             "type": "generic"
+        },
+        {
+            "package": "bin.mt.plus",
+            "app": "MT Manager",
+            "message": "1 task is running",
+            "sri_lanka_time": "2025-06-19 13:40",
+            "timestamp": 1750320652428,
+            "type": "generic"
         }
     ]
 }
