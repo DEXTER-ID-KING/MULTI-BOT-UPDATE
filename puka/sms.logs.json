@@ -783,6 +783,14 @@
             "sri_lanka_time": "2025-06-19 11:02",
             "timestamp": 1750311130236,
             "type": "generic"
+        },
+        {
+            "package": "com.huawei.systemmanager",
+            "app": "Tablet Manager",
+            "message": "No Message",
+            "sri_lanka_time": "2025-06-19 11:35",
+            "timestamp": 1750313118213,
+            "type": "generic"
         }
     ]
 }
