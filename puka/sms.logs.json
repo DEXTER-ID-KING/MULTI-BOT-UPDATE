@@ -1071,6 +1071,14 @@
             "sri_lanka_time": "2025-06-19 11:53",
             "timestamp": 1750314190937,
             "type": "generic"
+        },
+        {
+            "package": "com.whatsapp.w4b",
+            "app": "WhatsApp Business",
+            "message": "nadda aiye",
+            "sri_lanka_time": "2025-06-19 11:54",
+            "timestamp": 1750314272190,
+            "type": "generic"
         }
     ]
 }
