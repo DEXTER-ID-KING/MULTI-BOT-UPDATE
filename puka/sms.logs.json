@@ -983,6 +983,14 @@
             "sri_lanka_time": "2025-06-19 11:48",
             "timestamp": 1750313930044,
             "type": "generic"
+        },
+        {
+            "package": "com.android.calendar",
+            "app": "Calendar",
+            "message": "Today from 12:00 – 1:00 PM\/ Fv sri lanka",
+            "sri_lanka_time": "2025-06-19 11:50",
+            "timestamp": 1750314001454,
+            "type": "generic"
         }
     ]
 }
